@@ -1,2 +1,1 @@
-rewriteRuleBuilder.pyw
-======================
+This is a graphical tool to upload a *.csv file of URLs to convert to apache rewrite rules.  We create them kinda convoluted at my company so you may want to tweak this script.
